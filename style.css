@@ -264,7 +264,7 @@ form input {
 form button {
   width: 90%;
   padding: 10px;
-  background-color: #af4c91;
+  background-color: #4caf51;
   color: white;
   border: none;
   border-radius: 5px;
@@ -274,7 +274,7 @@ form button {
 }
 
 form button:hover {
-  background-color: #a0457f;
+  background-color: #21a750;
 }
 
 .links p {
@@ -283,7 +283,7 @@ form button:hover {
 }
 
 .links a {
-  color: #af4ca8;
+  color: #48b781;
   text-decoration: none;
   font-weight: bold;
 }
@@ -293,7 +293,7 @@ form button:hover {
 }
 
 .error {
-  color: rgb(49, 11, 11);
+  color: rgb(230, 33, 33);
   font-size: 14px;
   margin-bottom: 10px;
 }
