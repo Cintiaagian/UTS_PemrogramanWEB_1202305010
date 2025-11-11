@@ -2,7 +2,7 @@
 include('koneksi.php');
 include('session.php');
 
-// Cek apakah pengguna sudah login
+// Cek apakah pengguna sudah melakukan login
 if (!isLoggedIn()) {
     header('Location: login.php');
     exit();
